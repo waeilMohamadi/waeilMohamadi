@@ -1,5 +1,5 @@
 I am a full-stack Java software developer with recent experience building multi-tiered web applications. 
-I went to school at Texas Southern University(Houston ,Texas) where I pursued a Bachelor’s degree in 12/14/2019 .
+I went to school at Texas Southern University(Houston ,Texas) where I pursued a Bachelor’s degree of Computer Sceince in 12/14/2019 .
 In a few years, my goal is to become a senior developer so that I can have my own company.
 
 During my time at Revature, I’ve worked on several projects where I gained experience in both backend technologies 
